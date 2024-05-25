@@ -10,7 +10,8 @@
 .footer__img{
     width: 242.52px;
     height: 18px;
-    
+    display: flex;
+    justify-content: space-between;
     
 
 }
