@@ -1,0 +1,21 @@
+.Header{
+    background: #74C69D;
+    padding: 30px 0;
+}
+
+.header__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headr__List{
+    display: flex;
+
+    li{
+        margin-left: 20px;
+        color: white;
+        cursor: pointer;
+    }
+}
+

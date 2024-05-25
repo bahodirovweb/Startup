@@ -1,0 +1,19 @@
+.footer{
+    background-color:  #74C69D;
+    padding: 54px 0;
+}
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__img{
+    width: 242.52px;
+    height: 18px;
+    
+    
+
+}
+.footer_p{
+    color: white;
+}

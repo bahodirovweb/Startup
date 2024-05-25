@@ -1,0 +1,7 @@
+.works__img{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    img{margin-right: 55px;
+        margin-bottom: 55px;
+        cursor: pointer;}
+}

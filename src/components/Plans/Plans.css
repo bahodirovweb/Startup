@@ -1,0 +1,82 @@
+.plans {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.pertners__p{
+    margin-bottom: 50px;
+}
+.plan {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: 3px 4px 12px 1px #00000040;
+    width: 340px;
+    height: 562px;
+    background: #fff;
+    padding: 46px 30px;
+    margin: 0 auto 300px;
+    P{
+        text-align: center;
+    }
+}
+
+.plan h2 {
+    font-size: 1.5  em;
+    margin-bottom: 10px;
+}
+
+.price {
+    font-size: 2em;
+    color: #333;
+    
+}
+
+.price span {
+    font-size: 0.5em;
+    color: #999;
+}
+
+.pi{
+    color: #999;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+    li{
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+}
+
+
+button {
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #040404;
+}
+
+.check__item{
+    display: flex;
+
+    p{
+
+        margin-left: 10px;
+    }
+}
+.pip{
+    color: rgb(1, 1, 1);
+}
